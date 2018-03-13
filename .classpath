@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="bin" kind="output"/>
+	<classpathentry path="src" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/" kind="con"/>
+	<classpathentry path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK" kind="con"/>
+	<classpathentry path="com.android.ide.eclipse.adt.LIBRARIES" kind="con"/>
+	<classpathentry path="/AIDETemplate-core" kind="src"/>
+	<classpathentry path="libs/gdx-backend-android-1.9.8.jar" kind="lib"/>
+	<classpathentry path="libs/gdx-box2d-1.9.8.jar" kind="lib" />
+	<classpathentry path="libs/gdx-bullet-1.9.8.jar" kind="lib" />
+	<classpathentry path="libs/box2dlights-1.4.jar" kind="lib" />
+	<classpathentry path="libs/gdx-freetype-1.9.8.jar" kind="lib"/>
+	<classpathentry path="libs/ashley-1.7.0.jar" kind="lib"/>
+	<classpathentry path="libs/gdx-ai-1.8.0.jar" kind="lib"/>
+	<classpathentry path="libs/gdx-controllers-1.9.8.jar" kind="lib"/>
+	<classpathentry path="libs/gdx-controllers-android-1.9.8.jar" kind="lib"/>
+	<classpathentry path="libs/gdx-dialogs-android-1.2.5.aar" kind="lib"/>
+	<classpathentry path="libs/gdx-1.9.8.jar" kind="lib"/>
+	<classpathentry path="libs/gdx-dialogs-core-1.2.5.jar" kind="lib"/>
+</classpath>
